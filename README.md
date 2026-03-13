@@ -7,6 +7,7 @@ Semantic search engine using TF-IDF vectorization and cosine similarity.
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB.svg)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-2.0+-000000.svg)](https://flask.palletsprojects.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg?logo=docker)](Dockerfile)
 
 [Portugues](#portugues) | [English](#english)
 
